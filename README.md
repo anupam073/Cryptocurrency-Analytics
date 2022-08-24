@@ -5,8 +5,9 @@ This Project Focus On analyzeing the give data set and filtering the data and cr
 I have taken a dataset from kaggle and analyzed it by creating data visualization dashboard of cryptocurrency by Power BI.
 
 
-
+# Page-1
 ![image](https://raw.githubusercontent.com/anupam073/Cryptocurrency-Analytics/main/Demo/crypto-dashboard-1.png)
 
-![image]()
+#Page-2
+![image](https://raw.githubusercontent.com/anupam073/Cryptocurrency-Analytics/main/Demo/crypto-dashboard-2.png)
 
